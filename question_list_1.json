@@ -1,0 +1,18 @@
+{
+   "questions" : [
+ 
+       
+        { "Id": "id1",
+           "Question": "Do you like Python?",
+           "Answer": ["yes","no","maybe"]
+        },
+        { "Id": "id2",
+           "Question": "Are you eligible to work in the US?",
+       "Answer": ["yes"]
+        },
+    { "Id": "id3",
+       "Question": "Do you like Potbelly sandwiches?",
+       "Answer": ["yes"]
+    }
+    ]
+}
